@@ -3,6 +3,14 @@ import context from "./scripts/context.js";
 import * as Utils from "./scripts/utils.js";
 import * as Noise from "./scripts/noise.js";
 
+
+/**
+ * Dit was mijn eerste versie maar vond het niet goed genoeg, heb een paar delen overgenomen en verbeterd in "Design.js"
+ * 
+ * Dit is dus versie 1 maar heb het nooit gecommit (problemen met github)
+*/
+
+
 let width = context.canvas.width;
 let height = context.canvas.heigth;
 let size = 330;
